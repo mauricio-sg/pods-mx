@@ -2,11 +2,11 @@ domain: example.com
 url: https://example.com
 baseurl: "/wind"
 
-title: Wind
+title: Pods MX 🇲🇽
 email: wind@example.com
-author: Wind Sample
+author: Pods MX
 
-lang: en
+lang: es
 
 plugins:
   - jekyll-seo-tag

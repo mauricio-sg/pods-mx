@@ -1,7 +1,8 @@
 ---
+title: inicio
 layout: home
+order: 1
 ---
-# Welcome
+# Bienvenid@
 
-Hello World. Hello Friend.
-
+Conoce más de tus pods favoritos.

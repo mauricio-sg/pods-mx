@@ -1,32 +1,18 @@
 ---
-title: about
+title: acerca
 layout: page
+order: 3
 ---
-## Modo nostra
+# ¿Quiénes Somos?
 
-Lorem markdownum mihi; hic sonantem tenebat telum successu mollierant inani
-avoque. Harena et laedor bisque moenia veniat facit lebetes tum non?
+Somos un grupo apasionado por el fascinante mundo de los isópodos, un hobby que une ciencia, naturaleza y curiosidad. Desde México 🇲🇽, compartimos nuestro entusiasmo por estas pequeñas criaturas, que no solo son importantes para los ecosistemas, sino también una increíble fuente de aprendizaje y disfrute.
 
-> Iunctissima lapsus illis; venit protervis exequialia absit tristia et
-> **locum** cum ut ad convertor tamen. Ad mea cui! Pedibus sit inque quaerit [ac
-> eadem](http://clamavit.io/), quid, aurum quam videt ille. Aiax harenam, et
-> salices equos, captis, Iovis.
+## Nuestra Misión
+Difundir conocimiento, experiencias y consejos prácticos para todos los niveles, desde principiantes hasta expertos. Queremos que más personas descubran el encanto de los isópodos y aprendan a cuidarlos adecuadamente.
 
-## Cumque ardor
+## ¿Qué Hacemos?
+- Compartimos información sobre especies, cuidados y curiosidades.
+- Promovemos el hobby como una forma de conectar con la naturaleza.
+- Creamos una comunidad para amantes de los isópodos, donde todos puedan aprender y crecer.
 
-Suspiria seque sui quot, stare non profuso adsensere ignibus. Nata nomen rude
-veniam. Colore alta avido, relicta obnoxia vivosque Ereboque animosque meae,
-festas, Cythereia tu stare scitusque. Indefessus urbes eodem tuo liceat dives
-Telamonius nobis aetheriae, illam, in heu idemque **an**.
-
-    key(gigabyteHoverClick - kilohertz, latencyPad);
-    process_password(heap_barcraft_file(matrix - dos_icio_blacklist,
-            exploitScsiVdu), activex * raid, cdmaVfatNvram + direct);
-    if (2 != surgeMemeConstant + 4) {
-        enterprise_so_gps += -1;
-        task(19 + primary_dvd_ruby, oasis_drive);
-    } else {
-        networking_path_box = protocolAndStack(5, 1, drop_rom) + dns_tft(29, -3,
-                emulation);
-    }
-
+Nuestro blog es un espacio para explorar, compartir y celebrar el mundo de los isópodos. Si te intriga la biodiversidad y el cuidado de estas increíbles criaturas, ¡este es tu lugar! 🪱✨
