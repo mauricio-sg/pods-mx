@@ -1,5 +1,5 @@
 ---
-title: catálogo
+title: Catálogo
 layout: home
 order: 2
 ---

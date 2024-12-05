@@ -1,5 +1,5 @@
 ---
-title: inicio
+title: Inicio
 layout: page
 order: 1
 ---

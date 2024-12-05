@@ -1,5 +1,5 @@
 ---
-title: acerca
+title: Acerca
 layout: page
 order: 4
 ---
