@@ -8,7 +8,7 @@ order: 4
 Somos un grupo apasionado por el fascinante mundo de los isópodos, un hobby que une ciencia, naturaleza y curiosidad. Desde México 🇲🇽, compartimos nuestro entusiasmo por estas pequeñas criaturas, que no solo son importantes para los ecosistemas, sino también una increíble fuente de aprendizaje y disfrute.
 
 ## Nuestra Misión
-Difundir conocimiento, experiencias y consejos prácticos para todos los niveles, desde principiantes hasta expertos. Queremos que más personas descubran el encanto de los isópodos y aprendan a cuidarlos adecuadamente.
+Difundir conocimiento, experiencias y consejos prácticos para todos los niveles, desde principiantes hasta expertos. Queremos que más personas de habla hispana descubran el encanto de los isópodos y aprendan a cuidarlos adecuadamente.
 
 ## ¿Qué Hacemos?
 - Compartimos información sobre especies, cuidados y curiosidades.
