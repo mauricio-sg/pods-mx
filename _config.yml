@@ -1,6 +1,6 @@
-domain: example.com
-url: https://example.com
-baseurl: "/wind"
+domain: podsmx.site
+url: https://podsmx.site
+baseurl: "/"
 
 title: Pods MX 🇲🇽
 email: wind@example.com
