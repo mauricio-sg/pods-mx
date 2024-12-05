@@ -2,7 +2,7 @@
 title: etiquetas
 layout: tags
 permalink: /tags/
-order: 2
+order: 3
 ---
 
 
