@@ -4,7 +4,7 @@ layout: page
 order: 4
 ---
 
-# Acerca
+# Acerca de...
 
 Este blog es un espacio dedicado únicamente a la divulgación y el conocimiento, sin fines comerciales. Aquí podrás explorar, compartir y celebrar el mundo de los isópodos. Si te interesa la biodiversidad y el cuidado de estas fascinantes criaturas, ¡este es tu lugar! 🙂
 
