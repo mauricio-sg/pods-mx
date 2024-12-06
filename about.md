@@ -3,16 +3,15 @@ title: Acerca
 layout: page
 order: 4
 ---
-# ¿Quiénes Somos?
 
-Somos un grupo apasionado por el fascinante mundo de los isópodos, un hobby que une ciencia, naturaleza y curiosidad. Desde México 🇲🇽, compartimos nuestro entusiasmo por estas pequeñas criaturas, que no solo son importantes para los ecosistemas, sino también una increíble fuente de aprendizaje y disfrute.
+# Acerca
+
+Este blog es un espacio dedicado únicamente a la divulgación y el conocimiento, sin fines comerciales. Aquí podrás explorar, compartir y celebrar el mundo de los isópodos. Si te interesa la biodiversidad y el cuidado de estas fascinantes criaturas, ¡este es tu lugar! 🙂
+
+## ¿Quiénes Somos?
+
+Somos un grupo apasionado por el fascinante mundo de los isópodos, un hobby que combina ciencia, naturaleza y curiosidad. Desde México 🇲🇽, compartimos el entusiasmo por estas pequeñas criaturas, que no solo son fundamentales para los ecosistemas, sino también una fuente increíble de aprendizaje y disfrute.
 
 ## Nuestra Misión
-Difundir conocimiento, experiencias y consejos prácticos para todos los niveles, desde principiantes hasta expertos. Queremos que más personas de habla hispana descubran el encanto de los isópodos y aprendan a cuidarlos adecuadamente.
 
-## ¿Qué Hacemos?
-- Compartimos información sobre especies, cuidados y curiosidades.
-- Promovemos el hobby como una forma de conectar con la naturaleza.
-- Creamos una comunidad para amantes de los isópodos, donde todos puedan aprender y crecer.
-
-Nuestro blog es un espacio para explorar, compartir y celebrar el mundo de los isópodos. Si te intriga la biodiversidad y el cuidado de estas increíbles criaturas, ¡este es tu lugar! 🪱✨
+Difundir conocimiento, experiencias y consejos prácticos para todos los niveles, desde principiantes hasta expertos. El objetivo es que más personas de habla hispana descubran el encanto de los isópodos y aprendan a cuidarlos adecuadamente.
