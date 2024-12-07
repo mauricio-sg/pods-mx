@@ -5,7 +5,7 @@ order: 1
 ---
 # Bienvenido
 
-Explora el fascinante mundo de los isópodos... pero, ¿qué es un isópodo? 🤔
+Sumérgete en el increíble universo de los isópodos. Pero antes... ¿te has preguntado qué es exactamente un isópodo? 🤔
 
 ## Etimología:
 
