@@ -1,7 +1,7 @@
 ---
 title: Acerca
 layout: page
-order: 4
+order: 6
 ---
 
 # Acerca de...
@@ -15,3 +15,6 @@ Somos un grupo apasionado por el fascinante mundo de los isópodos, un hobby que
 ## Nuestra Misión
 
 Difundir conocimiento, experiencias y consejos prácticos para todos los niveles, desde principiantes hasta expertos. El objetivo es que más personas de habla hispana descubran el encanto de los isópodos y aprendan a cuidarlos adecuadamente.
+
+## Contacto
+Quejas y sugerencias: [@fakedad___](https://www.instagram.com/fakedad___/)

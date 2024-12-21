@@ -33,6 +33,6 @@ Es probable que muchos de nosotros hayamos descubierto a estos pequeñines duran
 
 Más allá de ser curiosos, los isópodos desempeñan un papel crucial en el ecosistema al ser detritívoros ♻️, ya que se alimentan de materia orgánica en descomposición, como hojas y restos de animales. Este proceso no solo recicla nutrientes esenciales, sino que también mejora la calidad del suelo.
 
-Por si fuera poco, su diversidad de formas, colores y comportamientos únicos los ha convertido en mascotas populares entre los entusiastas y coleccionistas. Generalmente se les mantiene en recipientes especializados, pero también se utilizan en terrarios y vivarios como "equipos de limpieza" 🧹 naturales. Si cohabitan con reptiles o anfibios, incluso pueden servir ocasionalmente como alimento vivo, ayudando a regular las poblaciones.
+Por si fuera poco, su diversidad de formas, colores y comportamientos únicos los ha convertido en mascotas populares entre los entusiastas y coleccionistas. Generalmente se les mantiene en recipientes especializados, pero también se utilizan en terrarios y vivarios como "equipos de limpieza" naturales. 🧹 Si cohabitan con reptiles o anfibios, incluso pueden servir ocasionalmente como alimento vivo, ayudando a regular las poblaciones.
 
 ¡Un pequeño crustáceo con grandes responsabilidades! 🌿✨
