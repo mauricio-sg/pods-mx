@@ -6,7 +6,7 @@ order: 3
 
 Si estás considerando adquirir alguna especie de isópodo, es fundamental conocer sus cuidados básicos para garantizar su bienestar y disfrutar de esta fascinante experiencia 😃. Los pilares de este hobby son los siguientes:
 
-1. 🫙 **Recipiente:** Generalmente se utilizan contenedores de plástico, como zapateras. Sin embargo, también puedes optar por recipientes más vistosos, como terrarios de vidrio o acrílico. Lo importante es que el recipiente cuente con buena ventilación.
+1. 🫙 **Recipiente:** Generalmente se utilizan contenedores de plástico, como zapateras. Sin embargo, también puedes optar por recipientes más vistosos, como terrarios de vidrio o acrílico. Lo importante es que el recipiente cuente con buena ventilación, ya que asegura un control adecuado de la humedad, previene la acumulación de gases nocivos y evita el crecimiento de moho, contribuyendo a un ambiente saludable para los isópodos.
     
     A continuación, te muestro un ejemplo de cómo preparar un recipiente de plástico:
     1. **Marcar la ubicación de las ventilas.** Usa un plumón para marcar donde irán las perforaciones.
@@ -18,7 +18,7 @@ Si estás considerando adquirir alguna especie de isópodo, es fundamental conoc
     ![Maya](/assets/images/container/4.jpeg)
     ![Parche](/assets/images/container/5.jpeg)
     ![Parchado](/assets/images/container/6.jpeg)
-    4. **Perforar la tapa.** Si la tapa lo permite, repite el proceso de perforación. Asegúrate de colocar la ventilación de la tapa en el mismo lado que la del recipiente. En este caso solamente se realizaron pequeños hoyos con una broca.
+    4. **Perforar la tapa.** Si la tapa lo permite, repite el proceso de perforación. Asegúrate de colocar la ventilación de la tapa en el mismo lado que las del recipiente. En este caso solamente se realizaron pequeños hoyos con una broca.
     ![Tapa](/assets/images/container/6T.jpeg)
 2. 🍂 **Sustrato:**
     Una mezcla común para el sustrato es:
@@ -40,7 +40,8 @@ Si estás considerando adquirir alguna especie de isópodo, es fundamental conoc
 5. 🥕 **Alimentación:** Los isópodos se alimentan principalmente de hojas secas, madera en descomposición y calcio, que puedes proporcionar en forma de hueso de jibia (entero o en trozos) o cáscaras de huevo molidas. De manera ocasional, es posible complementar su dieta con pequeñas cantidades de alimentos como comida especialmente formulada para isópodos, hojuelas de pescado, croquetas de perro o gato, charales sin salar o restos de verduras. Es importante no excederse en la cantidad para evitar la aparición de moho y la proliferación de plagas indeseadas.
 ![Repashy](/assets/images/container/repashy.jpeg)
 6. 🌡️ **Temperatura:** Los isópodos se mantienen bien a temperaturas similares a las del hogar (21-27°C). Si te sientes cómodo en tu habitación, probablemente tus isópodos también lo estarán.
-7. 😬 **No molestar:** Por último, aunque adoremos a nuestros pequeños isópodos por lo fascinantes que son y queramos observarlos constantemente, es importante recordar que tocarlos y manipularlos con frecuencia puede causarles estrés. Por ello, te recomiendo limitar su manipulación a momentos indispensables, como las tareas de mantenimiento, para asegurar su bienestar y tranquilidad.
+7. 🐞 **Colémbolos:** Por irónico que parezca, los isópodos necesitan su propio equipo de limpieza en forma de colémbolos (_Collembola_). Estos pequeños insectos se alimentan de moho, hongos y restos de comida no consumida, ayudando a mantener el ambiente limpio y libre de contaminantes. Además, controlan la proliferación de bacterias y hongos, evitando que estos afecten la salud de los isópodos. También compiten con otras plagas invasoras, reduciendo el riesgo de que se establezcan en el terrario. De esta manera, los _colémbolos_ contribuyen a un entorno más saludable y equilibrado para los isópodos.
+8. 😬 **No molestar:** Por último, aunque adoremos a nuestros pequeños isópodos por lo fascinantes que son y queramos observarlos constantemente, es importante recordar que tocarlos y manipularlos con frecuencia puede causarles estrés. Por ello, te recomiendo limitar su manipulación a momentos indispensables, como las tareas de mantenimiento, para asegurar su bienestar y tranquilidad.
 
 
 Y bien, con estos consejos en mente, estás listo para elegir a tus isópodos favoritos y comenzar a cuidarlos con todo el amor 🥰 y dedicación que necesitan. ¡Que disfrutes de esta increíble aventura! ✨
