@@ -12,7 +12,7 @@ lang: es
 plugins:
   - jekyll-seo-tag
 
-color: "#13ccf9"
+color: "orange"
 # disqus:
 #   shortname: example-com
 #
